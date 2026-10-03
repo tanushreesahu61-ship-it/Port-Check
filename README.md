@@ -73,6 +73,10 @@ Enter Service: HTTP
 ```
 
 ---
+##<h2>📸 Project Preview</h2>
+
+<img src="Port-Check.png" alt="Project Preview">
+
 
 ## 🧠 What I Learned
 
