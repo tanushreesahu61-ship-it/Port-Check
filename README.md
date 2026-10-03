@@ -73,6 +73,11 @@ Enter Service: HTTP
 ```
 
 ---
+## Project Preview
+
+![Port-Check Preview](C:\Users\Kritika sahu\Pictures\Port-Check.png
+
+
 
 ## 🧠 What I Learned
 
