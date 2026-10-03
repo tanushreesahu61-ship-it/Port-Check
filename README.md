@@ -10,7 +10,7 @@
 
 ## 🚀 About the Project
 
-**Port-Check** is a Python networking project that checks whether a specified a port is accessible on a given domain or IP address.
+**Port-Check** is a Python networking project that checks whether a specified port is accessible on a given domain or IP address.
 
 The project was created to learn the fundamentals of **computer networking, socket programming, and basic cybersecurity concepts** using Python.
 
