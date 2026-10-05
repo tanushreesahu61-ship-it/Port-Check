@@ -34,6 +34,18 @@ def check_port(ip):
         s.close()
 while True:
     check_port(ip)
+while True:
+    choise = input("Do you want to Scan another Domain? (yes or no) -> ")
+    if choise.lower() == "yes":
+        domain = input("Enter the Domain name -> ")
+        try:
+            ip = socket.gethostbyname(domain)
+            print("IP Adress -> ",ip)
+            check_port(ip)
+        except socket.gaierror:
+            print("Could not find the IP Address...")
+    else:
+        break
     choise = input("Do you want to Scan another Port? (yes or no) -> ")
     if choise.lower() == "yes":
         continue
